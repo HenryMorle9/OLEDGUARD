@@ -1,0 +1,14 @@
+Burn-In Prevention Software
+Copyright (c) 2025 [Your Name]
+
+This software and its source code are proprietary and protected under copyright law.
+All rights are reserved.
+
+You may:
+- Use this software for personal, non-commercial purposes
+
+You may NOT:
+- Copy, modify, redistribute, or sell any part of this software or its source code
+
+This repository is provided for reference and educational use only.
+Unauthorized use, replication, or commercialization is strictly prohibited.
