@@ -23,7 +23,13 @@ OLEDGUARD monitors keyboard and mouse activity. If no input is detected for a us
 
 ## 📦 Usage
 
+## TODO
+
+- make a installer
+- maybe make a website so people can install it or make it open source for download
+
 ### ▶️ Running the Script (Python)
 
 ```bash
 python burnin_prevention.py --enable --timeout 300
+
