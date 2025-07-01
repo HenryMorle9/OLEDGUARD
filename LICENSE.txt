@@ -1,5 +1,5 @@
 Burn-In Prevention Software
-Copyright (c) 2025 [Your Name]
+Copyright (c) 2025 Henry Morle
 
 This software and its source code are proprietary and protected under copyright law.
 All rights are reserved.
