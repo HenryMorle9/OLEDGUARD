@@ -1,36 +1,26 @@
-# Byte-compiled / optimized / DLL files
+# Python build artifacts
 __pycache__/
 *.py[cod]
-*$py.class
+*.pyo
 
-# Virtual environments
-.env/
-.venv/
-env/
-venv/
+# Distribution / Build folders
+/dist/
+/build/
+/*.spec
 
-# VS Code settings
+# Windows executables
+*.exe
+*.dll
+*.msi
+
+# NirCmd binaries (if you don't want to track them)
+nircmd.exe
+nircmdc.exe
+NirCmd.chm
+
+# VS Code settings (optional)
 .vscode/
 
-# PyInstaller build artifacts
-build/
-dist/
-*.spec
-
-# Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
-
-# macOS & Windows junk
-.DS_Store
-Thumbs.db
-desktop.ini
-
-# Python egg info
-*.egg-info/
-
-# Test / temp / debug files
+# Logs or temp files
 *.log
 *.tmp
-*.bak
-*.swp
