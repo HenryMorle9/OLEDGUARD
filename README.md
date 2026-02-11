@@ -1,6 +1,6 @@
 # 🛡️ OLEDGUARD (work in progress)
 
-**OLEDGUARD** is a lightweight utility that displays a black screen overlay after a period of inactivity — a simple and effective solution for preventing OLED screen burn-in, especially in situations where games or apps block standard screensaver behavior.
+**OLEDGUARD** is a lightweight utility that displays a black screen overlay after a period of inactivity. A simple and effective solution for preventing OLED screen burn-in, especially in situations where games or apps block standard screensaver behavior. Right now it only works on windows/linux.
 
 ## 🚀 Features
 
